@@ -108,6 +108,8 @@
 * [Player4U](https://rentry.co/FMHYB64#player4u) - Movies / TV / Anime
 * [Gir Society](https://discord.gg/WHxeZ3aTtb) - Movies / TV / Anime / Plex Required
 * [PlayIMDb](https://www.playimdb.com/) - Search VidSrc via IMDb URLs / Official Frontend
+* [NETMIRROR](https://netmirror.app/1/en), [2](https://net20.cc/home) - Movies / TV / Anime / Sign-Up Required //@pmilind92
+
 
 ***
 
